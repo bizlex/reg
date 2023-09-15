@@ -1,6 +1,7 @@
-node_modules
 .idea
+cypress.env.*.json
 cypress.env.json
 downloads
+node_modules
 screenshots
 videos
