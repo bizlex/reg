@@ -1,11 +1,15 @@
 {
-  "name": "reg",
-  "version": "1.0.0",
-  "description": "autoregestation bot",
+  "author": "Alexey Levchuk",
+  "dependencies": {
+    "cypress": "13.2.0"
+  },
+  "description": "auto registration bot",
+  "license": "ISC",
   "main": "index.js",
+  "name": "reg",
   "scripts": {
+    "cypress:open": "cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alexey Levchuk",
-  "license": "ISC"
+  "version": "1.0.0"
 }

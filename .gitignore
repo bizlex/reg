@@ -1,0 +1,6 @@
+node_modules
+.idea
+cypress.env.json
+downloads
+screenshots
+videos
