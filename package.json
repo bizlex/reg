@@ -1,6 +1,7 @@
 {
   "author": "Alexey Levchuk",
   "dependencies": {
+    "2captcha": "^3.0.7",
     "cypress": "13.2.0"
   },
   "description": "auto registration bot",

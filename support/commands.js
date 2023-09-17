@@ -23,3 +23,8 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+require('./commands/solve_hCaptcha')
+require('./commands/suppress_error')
+require('./commands/wait_progressive')
+require('./commands/wait_spinner')
